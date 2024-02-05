@@ -3,6 +3,7 @@ A GitHub repository for all the developers to discuss whose apps were rejected b
 
 
 Hi, This is a fun/silly github repo inspired by Aatika khan on twitter
+![Alt text](image.png)
  (https://x.com/_aatikakhan_/status/1754020242114904209?s=20) to share about Apple review rejections journey and how they have handled it.
 
 
