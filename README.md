@@ -9,6 +9,7 @@ Hi, This is a fun/silly github repo inspired by Aatika khan on twitter
 
 If you want to share your journey/story, 
 
-1. Create a folder of your company name/project.
-2. Create a Readme.md file and write down your journey. 
-3. Create a pull request.  
+1. Fork this repository.
+2. Create your folder with your company name. Or your app name.
+3. Create a Readme.md file and write down your journey. 
+4. Create a pull request.  
